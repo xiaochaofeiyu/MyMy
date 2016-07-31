@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "NSObject+YSCRuntime.h"
 #import "YSCRuntimeManager.h"
+#import "NSTimer+YSCHelper.m"
 
 @interface YSCTools : NSObject
 

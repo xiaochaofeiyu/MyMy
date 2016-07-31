@@ -12,6 +12,7 @@
 		1A1CA2441D474FB600A694C2 /* YSCRuntimeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1CA2431D474FB600A694C2 /* YSCRuntimeManager.m */; };
 		1A1CA2471D47543100A694C2 /* NSObject+YSCRuntime.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1CA2461D47543100A694C2 /* NSObject+YSCRuntime.m */; };
 		1A1CA2551D48630900A694C2 /* InvacationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1CA2531D48630900A694C2 /* InvacationViewController.m */; };
+		1A3767B31D4AF85D003675C5 /* NSTimer+YSCHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3767B21D4AF85D003675C5 /* NSTimer+YSCHelper.m */; };
 		1A99E9F31D499D6200227553 /* ViewControllerRuntimeTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A99E9F21D499D6200227553 /* ViewControllerRuntimeTest.m */; };
 /* End PBXBuildFile section */
 
@@ -38,6 +39,8 @@
 		1A1CA2461D47543100A694C2 /* NSObject+YSCRuntime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YSCRuntime.m"; sourceTree = "<group>"; };
 		1A1CA2521D48630900A694C2 /* InvacationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvacationViewController.h; sourceTree = "<group>"; };
 		1A1CA2531D48630900A694C2 /* InvacationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvacationViewController.m; sourceTree = "<group>"; };
+		1A3767B11D4AF85D003675C5 /* NSTimer+YSCHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+YSCHelper.h"; sourceTree = "<group>"; };
+		1A3767B21D4AF85D003675C5 /* NSTimer+YSCHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+YSCHelper.m"; sourceTree = "<group>"; };
 		1A99E9F11D499D6200227553 /* ViewControllerRuntimeTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerRuntimeTest.h; sourceTree = "<group>"; };
 		1A99E9F21D499D6200227553 /* ViewControllerRuntimeTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerRuntimeTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,6 +79,8 @@
 				1A1CA2391D474F1700A694C2 /* YSCTools.m */,
 				1A1CA2451D47543100A694C2 /* NSObject+YSCRuntime.h */,
 				1A1CA2461D47543100A694C2 /* NSObject+YSCRuntime.m */,
+				1A3767B11D4AF85D003675C5 /* NSTimer+YSCHelper.h */,
+				1A3767B21D4AF85D003675C5 /* NSTimer+YSCHelper.m */,
 				1A1CA2421D474FB600A694C2 /* YSCRuntimeManager.h */,
 				1A1CA2431D474FB600A694C2 /* YSCRuntimeManager.m */,
 				1A99E9F11D499D6200227553 /* ViewControllerRuntimeTest.h */,
@@ -145,6 +150,7 @@
 			files = (
 				1A1CA2441D474FB600A694C2 /* YSCRuntimeManager.m in Sources */,
 				1A1CA2471D47543100A694C2 /* NSObject+YSCRuntime.m in Sources */,
+				1A3767B31D4AF85D003675C5 /* NSTimer+YSCHelper.m in Sources */,
 				1A1CA23A1D474F1700A694C2 /* YSCTools.m in Sources */,
 				1A1CA2551D48630900A694C2 /* InvacationViewController.m in Sources */,
 				1A99E9F31D499D6200227553 /* ViewControllerRuntimeTest.m in Sources */,

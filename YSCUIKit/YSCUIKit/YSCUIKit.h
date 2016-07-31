@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "YSCHamburgeButton.h"
+#import "YSCGooeyView.h"
 
 @interface YSCUIKit : NSObject
 

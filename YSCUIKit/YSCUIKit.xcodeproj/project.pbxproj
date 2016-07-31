@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A3767B91D4B37B9003675C5 /* YSCHamburgeButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3767B81D4B37B9003675C5 /* YSCHamburgeButton.m */; };
 		1A99E9E41D48EB2F00227553 /* YSCUIKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1A99E9E31D48EB2F00227553 /* YSCUIKit.h */; };
 		1A99E9E61D48EB2F00227553 /* YSCUIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A99E9E51D48EB2F00227553 /* YSCUIKit.m */; };
 		1A99E9F61D49AB7100227553 /* YSCGooeyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A99E9F51D49AB7100227553 /* YSCGooeyView.m */; };
@@ -26,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1A3767B71D4B37B9003675C5 /* YSCHamburgeButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSCHamburgeButton.h; sourceTree = "<group>"; };
+		1A3767B81D4B37B9003675C5 /* YSCHamburgeButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSCHamburgeButton.m; sourceTree = "<group>"; };
 		1A99E9E01D48EB2F00227553 /* libYSCUIKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libYSCUIKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A99E9E31D48EB2F00227553 /* YSCUIKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YSCUIKit.h; sourceTree = "<group>"; };
 		1A99E9E51D48EB2F00227553 /* YSCUIKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YSCUIKit.m; sourceTree = "<group>"; };
@@ -65,6 +68,8 @@
 			children = (
 				1A99E9E31D48EB2F00227553 /* YSCUIKit.h */,
 				1A99E9E51D48EB2F00227553 /* YSCUIKit.m */,
+				1A3767B71D4B37B9003675C5 /* YSCHamburgeButton.h */,
+				1A3767B81D4B37B9003675C5 /* YSCHamburgeButton.m */,
 				1A99E9F41D49AB7100227553 /* YSCGooeyView.h */,
 				1A99E9F51D49AB7100227553 /* YSCGooeyView.m */,
 			);
@@ -130,6 +135,7 @@
 			files = (
 				1A99E9F61D49AB7100227553 /* YSCGooeyView.m in Sources */,
 				1A99E9E61D48EB2F00227553 /* YSCUIKit.m in Sources */,
+				1A3767B91D4B37B9003675C5 /* YSCHamburgeButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +261,7 @@
 				1A99E9EB1D48EB2F00227553 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
